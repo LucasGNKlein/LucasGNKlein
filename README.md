@@ -1,6 +1,6 @@
 ## Sobre mim
 Sejam Muito Bem Vindos!
-Meu nome é Lucas Klein, desenvolvedor Front-End em formação e futuro Cientista de Dados.
+Meu nome é Lucas Klein, desenvolvedor em formação e futuro Cientista de Dados.
 
 Sou apaixonado pela cultura pop, possivelmente sendo chamado de "nerdola" por ai, mas tudo bem.
 
