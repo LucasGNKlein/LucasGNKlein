@@ -1,10 +1,10 @@
 ## Sobre mim
 Sejam Muito Bem Vindos!
-Meu nome é Lucas Klein, desenvolvedor em formação e futuro Cientista de Dados.
+Meu nome é Lucas Klein, desenvolvedor Full-Stack e futuro Cientista de Dados.
 
-Sou apaixonado pela cultura pop, possivelmente sendo chamado de "nerdola" por ai, mas tudo bem.
+Sou apaixonado pela cultura pop, possivelmente um "nerdola", mas tudo bem.
 
-Neste perfil voçê vai encontrar vários teste e programas oriundos de estudos de programação.
+Neste perfil você irá encontrar vários testes e programas oriundos de estudos de programação.
 
 ##
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGNKlein&layout=compact&bg_color=000000&text_color=00ffff&title_color=00ffff&border_color=00ffff) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasGNKlein&theme=transparent&bg_color=000&border_color=00ffff&show_icons=true&icon_color=00ffff&title_color=00ffff&text_color=00fFFF&hide_stars)
