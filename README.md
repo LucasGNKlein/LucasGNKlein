@@ -2,7 +2,7 @@
 Sejam Muito Bem Vindos!
 Meu nome é Lucas Klein, desenvolvedor Full-Stack e futuro Cientista de Dados.
 
-Sou apaixonado pela cultura pop, possivelmente um "nerdola", mas tudo bem.
+Sou apaixonado por cultura pop, possivelmente um "nerdola", mas tudo bem.
 
 Neste perfil você irá encontrar vários testes e programas oriundos de estudos de programação.
 
