@@ -1,11 +1,10 @@
 ## Sobre mim
-Sejam Muito Bem Vindos!
-Meu nome é Lucas Klein, desenvolvedor Full-Stack e futuro Cientista de Dados.
+wELCOME!
+Hi, my is Lucas, I'm a science computing student at Unijui, desenvolvedor Full-Stack e futuro Cientista de Dados.
 
-Sou apaixonado pela cultura pop, possivelmente um "nerdola", mas tudo bem.
+Aspiring Full-Stack and Mobile Developer.
 
-Neste perfil você irá encontrar vários testes e programas oriundos de estudos de programação.
-
+This profile showcases a variety of tests and programs created as part of programming studies.
 ##
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGNKlein&layout=compact&bg_color=000000&text_color=00ffff&title_color=00ffff&border_color=00ffff) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasGNKlein&theme=transparent&bg_color=000&border_color=00ffff&show_icons=true&icon_color=00ffff&title_color=00ffff&text_color=00fFFF&hide_stars)
 
