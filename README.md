@@ -1,6 +1,6 @@
 ## Sobre mim
 WELCOME!
-Hi, my is Lucas, I'm a science computing student at Unijui, desenvolvedor Full-Stack e futuro Cientista de Dados.
+Hi, my name is Lucas, I'm a science computing student at Unijui, desenvolvedor Full-Stack e futuro Cientista de Dados.
 
 Aspiring Full-Stack and Mobile Developer.
 
