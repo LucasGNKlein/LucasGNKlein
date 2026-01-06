@@ -6,7 +6,7 @@ Aspiring Full-Stack and Mobile Developer.
 
 This profile showcases a variety of tests and programs created as part of programming studies.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Futuro+Desenvolvedor+FullStack;Cara+gosta+de+tecnologia+e+dados" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Futuro+Desenvolvedor+FullStack;Cara+gosta+de+tecnologia+e+dados" alt="Typing SVG" />
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
