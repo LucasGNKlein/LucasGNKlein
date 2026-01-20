@@ -10,7 +10,7 @@ This profile showcases a variety of tests and programs created as part of progra
 
 ##
 [![GitHub stats](
-https://github-readme-stats.vercel.app/api/top-langs?username=LucasGNKlein&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true
+https://github-readme-stats.vercel.app/api/top-langs?username=LucasGNKlein&hide=stylus,blade,jupyter%20notebook,batchfile,dockerfile&theme=algolia&show_icons=true
 )](https://github.com/LucasGNKlein)
 
 ## Entre em contato
