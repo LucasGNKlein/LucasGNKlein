@@ -22,7 +22,7 @@ Aqui você encontrará projetos, experimentos e aplicações focadas no aprendiz
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGNKlein&theme=tokyonight)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasGNKlein&fire=#20c20e&locale=pt_BR&hide_longest_streak=true)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=LucasGNKlein&theme=dark&fire=#20c20e&locale=pt_BR&hide_longest_streak=true)](https://git.io/streak-stats)  
 
 
 ## Entre em contato
