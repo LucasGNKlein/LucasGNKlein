@@ -17,9 +17,8 @@ Aqui você encontrará projetos, experimentos e aplicações focadas no aprendiz
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=+e+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Futuro+Desenvolvedor+FullStack;Cara+gosta+de+tecnologia+e+dados" alt="Typing SVG" />
 
 ##
-[![GitHub stats](
-https://github-readme-stats.vercel.app/api/top-langs?username=LucasGNKlein&hide=stylus,blade,jupyter%20notebook,batchfile,dockerfile&theme=algolia&show_icons=true
-)](https://github.com/LucasGNKlein)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGNKlein&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=LucasGNKlein&theme=algolia&show_icons=true)](https://github.com/LucasGNKlein)
 
