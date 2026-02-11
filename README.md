@@ -20,7 +20,7 @@ Aqui você encontrará projetos, experimentos e aplicações focadas no aprendiz
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGNKlein&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=LucasGNKlein&theme=algolia&show_icons=true)](https://github.com/LucasGNKlein)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGNKlein&theme=tokyonight)
 
 ## Entre em contato
 
