@@ -20,7 +20,10 @@ Aqui você encontrará projetos, experimentos e aplicações focadas no aprendiz
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGNKlein&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGNKlein&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGNKlein&theme=tokyonight)  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 
 ## Entre em contato
 
